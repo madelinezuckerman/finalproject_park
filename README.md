@@ -1,6 +1,8 @@
 ## Calculation for Park Space Percentage per Neighborhood
 
 * We calculate the percent of each neighborhood's area that is taken up by park space and return a .csv file with neighborhood name and coverage percentage as the two columns
+* Driver
+    * Run python script "final_project_park_calculations.ipynb" to generate output
 * Input
     * Files ending in "2e976" correspond to shape files for neighborhoods in the City of Chicago
     * Files ending in "bbbeb" correspond to shape files for parks in Cook County
